@@ -1,3 +1,5 @@
+> **This repository is archived and will be deleted.** It is no longer maintained. For a current alternative, see [the webhooks docs](https://getstream.io/docs/platform/webhooks/).
+
 # Node.js Hello World
 
 Simple Node.js + Vercel example that returns a "Hello World" response.
